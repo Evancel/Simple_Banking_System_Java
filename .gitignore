@@ -1,0 +1,26 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Banking System (Java)/*
+!/Simple Banking System (Java)/task/
+/Simple Banking System (Java)/task/*
+!/Simple Banking System (Java)/task/src
+
+# Project exclude paths
+/Topics/Command-line arguments/Get the game mode/out/
+/Topics/Command-line arguments/Get the game mode/out/production/classes/
+/Topics/Command-line arguments/Parameters and their values/out/
+/Topics/Command-line arguments/Parameters and their values/out/production/classes/
+/Topics/File class/Are siblings/out/
+/Topics/File class/Are siblings/out/production/classes/
+/Topics/java.util.Arrays/Convert the array to a stream/out/
+/Topics/java.util.Arrays/Convert the array to a stream/out/production/classes/
